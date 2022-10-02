@@ -1,6 +1,7 @@
 .titulo{
     margin-top: 10px;
     text-align: center;
+    font-family: 'Bungee Spice', cursive;
 }
 
 .card{
@@ -11,4 +12,13 @@
 .historia{
     border: solid black;
     padding: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.texto{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.textNav{
+    font-family: 'Poppins', sans-serif;
 }
