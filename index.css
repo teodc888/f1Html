@@ -1,0 +1,14 @@
+.titulo{
+    margin-top: 10px;
+    text-align: center;
+}
+
+.card{
+    margin: auto;
+    margin-top: 10px;
+
+}
+.historia{
+    border: solid black;
+    padding: 20px;
+}
